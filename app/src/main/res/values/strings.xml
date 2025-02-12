@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Wishlist App</string>
+    <string name="hint_item_name">Item Name</string>
+    <string name="hint_item_url">Ex.https//example.com/my-item-url</string>
+    <string name="hint_item_price">Ex.5.99</string>
+    <string name="button">Button</string>
+    <string name="sample_text_two">somestore.com</string>
+    <string name="sample_text_one">New Mug</string>
+    <string name="sample_text_three">12.99</string>
+</resources>
